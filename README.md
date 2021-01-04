@@ -1,5 +1,5 @@
 # Relatórios e Documentos 
-Este repositório contém os documentos em formata de relatórios, slides ou documentos gerados durante a pesquisa referente a classificação dos insetos-pragas em particular o _Blissus Pulchellus_ e a _Cigarrinha das Pastagens_.
+Este repositório contém os documentos em formato de relatórios, slides ou documentos gerados durante a pesquisa referente a classificação dos insetos-pragas em particular o _Blissus Pulchellus_ e a _Cigarrinha das Pastagens_.
 
 Temos os seguintes documentos:
 
